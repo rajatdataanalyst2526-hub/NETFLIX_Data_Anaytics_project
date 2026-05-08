@@ -1,1 +1,3 @@
 # NETFLIX_Data_Anaytics_project
+
+Netflix Data Analytics Project is a data analysis project focused on exploring Netflix’s movies and TV shows dataset to uncover trends and insights. The project analyzes content distribution by genre, release year, country, ratings, and duration to understand Netflix’s content strategy. Using data cleaning, exploratory data analysis (EDA), and visualization techniques, it highlights patterns in audience preferences, global expansion, and content growth over time. This project showcases practical skills in Python, Pandas, Matplotlib, and Seaborn for real-world data analytics.
